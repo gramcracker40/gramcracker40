@@ -1,16 +1,9 @@
-### Hi there 👋
+## Garrett Mathers
 
-<!--
-**gramcracker40/gramcracker40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####Repo: 2143 - Object Oriented Repo
+####Email: garrett.mathers@gmail.com
+####Phone: 469-340-9010
+####Image:
+![Image](https://msumustangs.com/images/2021/8/17/Mathers_Garrett_6238.jpg?width=300)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Object Oriented Programs
-- 🌱 I’m currently learning ... OOP topics, C++, Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... send a text - 4693409010
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... Looking to specialize in cyber security with a lean towards pen testing
--->
