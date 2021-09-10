@@ -2,7 +2,8 @@
 ### Garrett Mathers
 ### Description:
 
-This program makes a Vector
+This program implements a MyVector class with several different methods to manipulate the
+vector accordingly
 
 ### Files
 
@@ -17,4 +18,4 @@ This program makes a Vector
 
 ### Example Command
 
-- None for now.
+- V1.popAt(location); -- this allows the user to pop an element at a certain location
