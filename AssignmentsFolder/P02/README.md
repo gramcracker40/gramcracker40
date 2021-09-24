@@ -9,7 +9,7 @@ vector accordingly, also includes many overloaded operators
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | [main.cpp](main.cpp) | Main driver of my list program . |
+|   1   | [P02.cpp](P02.cpp) | Main driver of my list program . |
 
 
 ### Instructions
