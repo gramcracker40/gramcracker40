@@ -1,0 +1,17 @@
+Garrett Mathers
+Program 2: Squares
+10/20/2021
+CMPS-2433 Discrete Structure
+
+N      LoopSum     RecSoln     Closed
+4      30          30          30
+5      55          55          55
+6      91          91          91
+7      140         140         140
+8      204         204         204
+9      285         285         285
+10     385         385         385
+11     506         506         506
+12     650         650         650
+13     819         819         819
+14     1015        1015        1015
