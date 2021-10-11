@@ -1,0 +1,63 @@
+Hello, Welcome to Rock, Paper, Scissors, Lizard, Spock
+This is a more 'complex' version of the original game 
+Press '1' to play and '0' to quit at anytime. Enjoy!!!
+
+1
+
+Player One: Weapon One: 🔪 Weapon Two: 📃
+
+Player Two: Weapon One: 🗻 Weapon Two: 🐸
+
+Player 2's 🗻 Beat Players 1's 🔪
+
+Player 1 Score: 0  Player 2 Score: 1
+
+1
+
+Player One: Weapon One: 🔪 Weapon Two: 🐸
+
+Player Two: Weapon One: 📃 Weapon Two: 🗻
+
+Player 1's 🔪 Beat Players 2's 📃
+
+Player 1 Score: 1  Player 2 Score: 1
+
+1
+
+Player One: Weapon One: 🖖 Weapon Two: 📃
+
+Player Two: Weapon One: 🗻 Weapon Two: 🐸
+
+Player 1's 🖖 Beat Players 2's 🗻
+
+Player 1 Score: 2  Player 2 Score: 1
+
+1
+
+Player One: Weapon One: 🖖 Weapon Two: 🔪
+
+Player Two: Weapon One: 📃 Weapon Two: 🐸
+
+Player 2's 📃 Beat Players 1's 🖖
+
+Player 1 Score: 2  Player 2 Score: 2
+
+1
+
+Player One: Weapon One: 📃 Weapon Two: 🗻
+
+Player Two: Weapon One: 📃 Weapon Two: 🔪
+
+Player 1's 🗻 Beat Players 2's 🔪
+
+Player 1 Score: 3  Player 2 Score: 2
+
+1
+
+Player One: Weapon One: 🗻 Weapon Two: 🖖
+
+Player Two: Weapon One: 🗻 Weapon Two: 🐸
+
+Player 2's 🐸 Beat Players 1's 🖖
+
+Player 1 Score: 3  Player 2 Score: 3
