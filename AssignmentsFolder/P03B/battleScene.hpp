@@ -117,8 +117,6 @@ class BattleScene{
       
       while(defense.size() != 0 || offense.size() != 0){
         iter = 0;
-      
-        // lifeRegen();
         
         //choosing the defender - while their weapon code is not the same run this 
         while(CaptainBase->getWeapon() != offense.at(0).getWeapon() && iter != defense.size() -1){
@@ -132,7 +130,6 @@ class BattleScene{
         }
         if(iter == defense.size()){
           CaptainBase = &defense.at(iter - 1);
-          cout<< "\n\nDEfinitely here\n\n";
         }
         if(defense.size() == 0 || offense.size() == 0){
           break;
