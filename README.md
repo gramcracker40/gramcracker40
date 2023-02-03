@@ -1,6 +1,6 @@
 ## Garrett Mathers
 
-#### Personal Repo
+#### Personal Repos
 
 #### Email: garrett.mathers@gmail.com
 #### Phone: 469-340-9010
