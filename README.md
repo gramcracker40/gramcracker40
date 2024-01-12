@@ -1,7 +1,7 @@
 # Garrett Mathers
 
 ## About Me
-I am a software developer with a passion for solutions that solve complex problems. My expertise lies in Python, C++, and JavaScript, with a strong interest in full stack web development using technologies like Flask, FastAPI, Docker and React. 
+I am a software developer with a passion for solutions that solve complex problems. My expertise lies in Python, C++, and JavaScript, with a strong interest in full stack web development using technologies like Flask, FastAPI, Docker and React.
 
 ## Skills
 - **Languages**: Python, C++, JavaScript, Go, C#
