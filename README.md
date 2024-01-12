@@ -11,7 +11,7 @@ I am a software developer with a passion for creating unique projects that solve
 - **Tools**: Git & Docker
 
 ## Projects
-(Here, you can list your projects with brief descriptions and links)
+All my repos have detailed README files explaining their contents. 
 
 ## Contact
 - **Email**: garrett.mathers@gmail.com
