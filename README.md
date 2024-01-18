@@ -4,7 +4,7 @@
 I am a software developer with a passion for solutions that solve complex problems. My expertise lies in Python, C++, and JavaScript, with a strong interest in full stack web development using technologies like Flask, FastAPI, Docker and React.
 
 ## Skills
-- **Languages**: Python, C++, JavaScript, Go, C#
+- **Languages**: Python, C++/C, JavaScript, Go, C#, RouterOS, HTML, CSS
 - **Frameworks**: Flask, FastAPI, React, Express
 - **Databases**: Postgresql, SQLite, MongoDB
 - **ORMs**: SQLAlchemy & Mongoose
